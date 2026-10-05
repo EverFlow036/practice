@@ -1,4 +1,4 @@
 package practiceOOP;
 
-public class practice {
+public class practice { hello world
 eeeeee
