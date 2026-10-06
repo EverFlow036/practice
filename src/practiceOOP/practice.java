@@ -1,4 +1,5 @@
 package practiceOOP;
 
-public class practice { hello world
-eeeeee
+public class practice {
+  private int isGay;
+                      }
